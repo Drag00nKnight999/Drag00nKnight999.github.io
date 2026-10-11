@@ -42,7 +42,7 @@ If the account username is `Drag00nKnight999`, the expected URL is `https://Drag
 
 GitHub Pages serves static files. This site does not include a server, database, secure login, or real-time chat. Do not put passwords, API secrets, private admin links, or sensitive information in this repository. Anything committed to a public repository should be treated as public.
 
-## Suggested next improvements
+## To Do list
 
 1. Add project screenshots and alt text.
 2. Add per-project case-study pages for larger projects.
